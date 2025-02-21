@@ -8,7 +8,6 @@
 
 <!-- 代码截图 -->
 ![代码示例](https://github.com/jhihhe/-/blob/main/%E4%BB%A3%E7%A0%81.png)
-![战绩播报](https://github.com/jhihhe/-/blob/main/%E6%88%98%E7%BB%A9%E6%92%AD%E6%8A%A5.png)
 ![示例](https://github.com/jhihhe/-/blob/main/%E7%A4%BA%E4%BE%8B.png)
 
 ## 主要功能
@@ -20,6 +19,8 @@
 - 💰 实时计算收益 (35元/套)
 - 🎯 支持高DPI显示屏
 - 🚨 错误处理与详细日志
+  
+![战绩播报](https://github.com/jhihhe/-/blob/main/%E6%88%98%E7%BB%A9%E6%92%AD%E6%8A%A5.png)
 
 ## 安装使用
 
