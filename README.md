@@ -30,11 +30,4 @@
 
 ### 快速开始
 ```bash
-# 克隆仓库
-git clone https://github.com/yourname/project.git
-
-# 进入目录
-cd project
-
-# 运行程序
-python3 folder_creator.py
+# 右键使用python 运行
